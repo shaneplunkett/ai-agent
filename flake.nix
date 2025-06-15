@@ -75,6 +75,8 @@
               venvShellHook
               pip
               ruff
+              pkgs.basedpyright
+              pkgs.black
 
               # Add whatever else you'd like here.
               # pkgs.basedpyright
